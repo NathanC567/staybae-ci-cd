@@ -1,13 +1,13 @@
 ignore:
   SNYK-JS-INFLIGHT-6095116:
-    - vitest/coverage-istanbul@1.2.2 > test-exclude@6.0.0 > glob@7.2.3 > inflight@1.0.6 :
+    - vitest/coverage-istanbul@1.2.2 > test-exclude@6.0.0 > glob@7.2.3 > inflight@1.0.6:
         reason: 'No update available'
         expires: '04/04/24'
   SNYK-JS-OBJECTPATH-1017036:
-    - sort-by@1.2.0 > object-path@0.6.0 :
+    - sort-by@1.2.0 > object-path@0.6.0:
         reason: 'No update available'
         expires: '04/04/24'
   SNYK-JS-OBJECTPATH-1569453:
-    - sort-by@1.2.0 > object-path@0.6.0 :
+    - sort-by@1.2.0 > object-path@0.6.0:
         reason: 'No update available'
         expires: '04/04/24'
