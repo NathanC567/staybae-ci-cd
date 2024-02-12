@@ -100,4 +100,4 @@ jobs:
               with:
                 context: ./
                 push: true
-                tags: astb01/staybae-ci-cd:${{steps.build_version.outputs.current_tag}}-wip.astb01
+                tags: nathanc567/staybae-ci-cd:${{steps.build_version.outputs.current_tag}}-wip,nathanc567/staybae-ci-cd:latest
